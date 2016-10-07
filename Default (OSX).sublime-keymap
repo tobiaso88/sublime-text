@@ -1,0 +1,6 @@
+[
+    { "keys": ["super+forward_slash"], "command": "toggle_comment", "args": { "block": true } },
+    { "keys": ["super+alt+forward_slash"], "command": "toggle_comment", "args": { "block": false } },
+    { "keys": ["super+v"], "command": "paste_and_indent" },
+    { "keys": ["super+shift+v"], "command": "paste" }
+]

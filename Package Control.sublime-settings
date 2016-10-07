@@ -1,0 +1,43 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"1337 Color Scheme",
+		"All Autocomplete",
+		"Blade Snippets",
+		"Blade Spacer",
+		"Bootstrap 3 Jade Snippets",
+		"Bootstrap 3 Snippets",
+		"BracketHighlighter",
+		"Colorsublime",
+		"Comment-Snippets",
+		"CSS Media Query Snippets",
+		"CSS Snippets",
+		"CSS3_Syntax",
+		"DashDoc",
+		"DocBlockr",
+		"Emmet",
+		"Git",
+		"Git Commit Message Syntax",
+		"GitGutter-Edge",
+		"Github Color Theme",
+		"Indent XML",
+		"Laravel Blade Highlighter",
+		"Material Theme",
+		"Package Control",
+		"PhpDoc",
+		"Pretty JSON",
+		"Sass",
+		"SCSS",
+		"Seti_UI",
+		"SideBarEnhancements",
+		"Smarty",
+		"SublimeLinter",
+		"SublimeLinter-csslint",
+		"SublimeLinter-php",
+		"Terminal"
+	]
+}
