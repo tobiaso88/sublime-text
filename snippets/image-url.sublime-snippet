@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[
+background: image-url('${1:this}');
+]]></content>
+    <tabTrigger>image-url</tabTrigger>
+</snippet>

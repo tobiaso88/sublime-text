@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+<a href="<?=webLocation?>${1:admin/module.php?module=Generic_Collections&file=form.php}" title="" class="btnIconLeft mr10 mt5">
+    <img src="<?=ADMIN_ICON?>dark/add.png" alt="" class="icon"><span>Skapa kollektion</span>
+</a>
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>add</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <!-- <scope>source.python</scope> -->
+</snippet>

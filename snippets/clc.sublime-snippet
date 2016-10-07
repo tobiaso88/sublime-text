@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+console.log('%c ${1:this} ', 'background: black; color:red; font-size:20px;');
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>clc</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <!-- <scope>source.python</scope> -->
+</snippet>

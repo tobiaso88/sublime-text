@@ -1,0 +1,15 @@
+<snippet>
+    <content><![CDATA[
+<div class="rowElem">
+    <label>${1:label}</label>
+    <div class="formRight">
+        ${2:input}
+    </div>
+    <div class="fix"></div>
+</div>
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>rowElem</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <!-- <scope>source.python</scope> -->
+</snippet>

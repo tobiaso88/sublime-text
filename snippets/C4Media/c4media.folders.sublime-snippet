@@ -1,0 +1,29 @@
+<snippet>
+    <content><![CDATA[
+\$folders = array(
+    'uploads',
+    'uploads/thumbnails',
+    'uploads/categories',
+    'uploads/slideshow',
+    'uploads/campaigns',
+    'uploads/gallery_images',
+    'modules/available_modules/payment',
+    'modules/available_modules/order',
+    'modules/available_modules/product',
+    'tpl/default/smarty',
+    'tpl/default/smarty/templates_c',
+    'tpl/default_admin/smarty',
+    'tpl/default_admin/smarty/templates_c'
+);
+
+foreach (\$folders as \$folder) {
+    if (!file_exists(APPLICATION_PATH . \$folder)) {
+        mkdir(\$folder);
+    }
+}
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>templates_c</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <!-- <scope>source.python</scope> -->
+</snippet>
